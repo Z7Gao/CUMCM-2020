@@ -1,0 +1,19 @@
+支撑文件列表：
+Result.xlsx
+ShortestPath_1.m
+findAllPath.py
+1and2_simulation.py  
+1and2_analysis.py    
+  
+文件说明：
+Result.xlsx：生成第一关与第二关的最优解
+ShortestPath_1.m：刻画第一关中每个点之间的最短距离
+findAllPath.py：生成第一关和第二关从起点到终点的全部路径
+1and2_simulation.py：生成第一关和第二关的最优解
+1and2_analysis.py：问题一的验证程序
+
+代码文件运行环境：
+ShortestPath_1.m：Matlab 2018b, 需要安装Network Analysis and Visualization 工具箱
+findAllPath.py：Python 3.7.0
+1and2_simulation.py：Python 3.7.0, 需要外部模块NumPy
+1and2_analysis.py：Python 3.7.0, 需要外部模块NumPy
