@@ -1,5 +1,9 @@
 # cumcm2020
 
+## About the repo
+
+Include the preparation materials for CUMCM 2020 and the final paper & code.
+
 ## Resources
 
 ### Online course
@@ -15,10 +19,6 @@ https://www.icourse163.org/course/cumcm-1001674011?tid=1206626245
 ### Previous outstanding paper
 
 http://dxs.moe.gov.cn/zx/qkt/sxjm/lw/2019qgdxssxjmjslwzs/
-
-## Outline(?)
-
-![preview](https://pic4.zhimg.com/v2-3a4084d2dacac127fe1199cb1b8ed36e_r.jpg?source=1940ef5c)
 
 ## Meeting log
 
